@@ -29,11 +29,11 @@ Senior Software Engineer and lead architect from Dhaka, Bangladesh. For 6+ years
 
 ### Top articles on Medium
 
+- [We're Scaling an AI Agent Toward 1000 Tools](https://medium.com/@shanto462/were-scaling-an-ai-agent-toward-1000-tools-so-we-took-almost-all-of-them-away-from-the-model-284e85627b3f): why a per-turn tool router broke our prompt cache, and how we took the tools away from the model instead
 - [Mastering the Fluent Builder Pattern in C#](https://medium.com/@shanto462/mastering-the-fluent-builder-pattern-in-c-from-basics-to-advanced-scenarios-b1b702583299): replace long constructors with readable, chainable builders
 - [Dependency Injection in WPF: A Complete Implementation Guide](https://medium.com/@shanto462/dependency-injection-in-wpf-a-complete-implementation-guide-468abcf95337): set up DI in a WPF app, step by step
 - [Mastering Threads in Spring Boot Java](https://medium.com/@shanto462/mastering-threads-in-spring-boot-java-from-basics-to-advanced-scenarios-0b0c9858140e): how Spring handles concurrent requests, and how to pick a threading model
 - [Mastering Expression Trees in C#](https://medium.com/@shanto462/mastering-expression-trees-in-c-from-basics-to-advanced-scenarios-c3dbf0ecc867): treat code as data, and build expressions at runtime
-- [Mastering Cancellation Token in C#](https://medium.com/@shanto462/mastering-cancellation-token-in-c-from-basics-to-advanced-scenarios-00ab7bd0be0d): stop async work cleanly and keep apps responsive
 
 [All articles →](https://medium.com/@shanto462)
 
