@@ -21,6 +21,8 @@ Senior Software Engineer and lead architect from Dhaka, Bangladesh. For 6+ years
 | [DotThrow](https://github.com/shanto462/DotThrow) | .NET library for automatic exception handling and rule validation, 1,500+ NuGet downloads |
 | [VisibilityEngine2D](https://github.com/shanto462/VisibilityEngine2D) | WPF app that demonstrates 2D visibility and culling techniques |
 | [fmGUI](https://github.com/shanto462/fmGUI) | macOS app for Apple's on-device Foundation Models: chat, tools, MCP servers, and an API server (Rust + Tauri) |
+| [slack-code](https://github.com/shanto462/slack-code) | Drive Claude Code from Slack DMs through a macOS menu bar app. Each DM thread is a local Claude Code session for one project (TypeScript, Claude Agent SDK, Electron) |
+| [Sotto](https://github.com/shanto462/Sotto) | Tray app for lecturers and presenters: press a hotkey or speak, and Claude explains the active Chrome window in a private overlay that screen sharing does not show (Electron, macOS and Windows) |
 | [yt-dlp-Bridge](https://github.com/shanto462/yt-dlp-Bridge) | Chrome extension and macOS menu bar app that runs your own yt-dlp |
 
 ### Tech I use
