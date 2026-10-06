@@ -49,3 +49,5 @@ Senior Software Engineer and lead architect from Dhaka, Bangladesh. For 6+ years
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/shanto462) · [Medium](https://medium.com/@shanto462) (I write about C#, .NET and AI agents)
+
+![Profile views](https://komarev.com/ghpvc/?username=shanto462&label=Profile%20views&color=0e75b6&style=flat)
