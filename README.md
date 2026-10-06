@@ -33,4 +33,4 @@ Senior Software Engineer and lead architect from Dhaka, Bangladesh. For 6+ years
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/shanto462)
+[LinkedIn](https://www.linkedin.com/in/shanto462) · [Medium](https://medium.com/@shanto462) (I write about C#, .NET and AI agents)
