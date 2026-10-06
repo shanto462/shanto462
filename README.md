@@ -18,7 +18,7 @@ Senior Software Engineer and lead architect from Dhaka, Bangladesh. For 6+ years
 | Project | What it is |
 | --- | --- |
 | [Bonsai](https://chromewebstore.google.com/detail/bonsai-tree-style-tab-man/effngghlfoddfodeoipeijhdbbnddjhm) | Tree style tab manager on the Chrome Web Store: tabs as a tree in a floating panel, with nesting, drag and drop, search, saved sessions, and browsing that leaves nothing in history (source is private)<br>![Chrome Web Store users](https://img.shields.io/chrome-web-store/users/effngghlfoddfodeoipeijhdbbnddjhm) ![Chrome Web Store rating](https://img.shields.io/chrome-web-store/rating/effngghlfoddfodeoipeijhdbbnddjhm) |
-| [HeightMapTo3dTerrain](https://github.com/shanto462/HeightMapTo3dTerrain) | Command-line tool that turns grayscale heightmaps into 3D terrain meshes (.obj) |
+| [HeightMapTo3dTerrain](https://github.com/shanto462/HeightMapTo3dTerrain) | Fast, multi-threaded Rust CLI and library that turns grayscale heightmaps into 3D terrain meshes (glTF, OBJ, STL, PLY). Adaptive Delaunay meshing needs only 3% to 30% of a full grid's vertices, and it can build watertight solids for 3D printing |
 | [DotThrow](https://github.com/shanto462/DotThrow) | .NET library for automatic exception handling and rule validation, 1,500+ NuGet downloads |
 | [VisibilityEngine2D](https://github.com/shanto462/VisibilityEngine2D) | WPF app that demonstrates 2D visibility and culling techniques |
 | [fmGUI](https://github.com/shanto462/fmGUI) | macOS app for Apple's on-device Foundation Models: chat, tools, MCP servers, and an API server (Rust + Tauri) |
