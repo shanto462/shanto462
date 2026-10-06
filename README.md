@@ -27,6 +27,16 @@ Senior Software Engineer and lead architect from Dhaka, Bangladesh. For 6+ years
 | [yt-dlp-Bridge](https://github.com/shanto462/yt-dlp-Bridge) | Chrome extension and macOS menu bar app that runs your own yt-dlp |
 | [Petty](https://github.com/shanto462/Petty) | Chrome extension (Manifest V3) with 43 pixel pets that walk, sleep and play on top of every browser tab. No tracking, no network requests |
 
+### Top articles on Medium
+
+- [Mastering the Fluent Builder Pattern in C#](https://medium.com/@shanto462/mastering-the-fluent-builder-pattern-in-c-from-basics-to-advanced-scenarios-b1b702583299): replace long constructors with readable, chainable builders
+- [Dependency Injection in WPF: A Complete Implementation Guide](https://medium.com/@shanto462/dependency-injection-in-wpf-a-complete-implementation-guide-468abcf95337): set up DI in a WPF app, step by step
+- [Mastering Threads in Spring Boot Java](https://medium.com/@shanto462/mastering-threads-in-spring-boot-java-from-basics-to-advanced-scenarios-0b0c9858140e): how Spring handles concurrent requests, and how to pick a threading model
+- [Mastering Expression Trees in C#](https://medium.com/@shanto462/mastering-expression-trees-in-c-from-basics-to-advanced-scenarios-c3dbf0ecc867): treat code as data, and build expressions at runtime
+- [Mastering Cancellation Token in C#](https://medium.com/@shanto462/mastering-cancellation-token-in-c-from-basics-to-advanced-scenarios-00ab7bd0be0d): stop async work cleanly and keep apps responsive
+
+[All articles →](https://medium.com/@shanto462)
+
 ### Tech I use
 
 - **AI and agents:** LangGraph, Claude, OpenAI, Gemini, MCP, RAG, prompt caching
