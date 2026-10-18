@@ -8,13 +8,6 @@ Senior Software Engineer and lead architect from Dhaka, Bangladesh. For 6+ years
 - 🧠 **Focus:** stateful agent workflows, multi-agent coordination, tool integrations, retrieval (RAG), and LLM cost and reliability
 - ☁️ **Before:** cloud-native healthcare SaaS on Azure at **Enosis Solutions**, and simulation systems and a 3D engine at the **Army War Game Centre**
 
-### Highlights
-
-- Cut LLM spend by 36 to 60% with prompt caching and automatic context compaction
-- Built meta-tooling to register, discover, and manage 500+ agent tools
-- Led the architecture of a patient engagement system sending 1M+ messages a day, and helped a dental practice platform reach a 99.5% SLA
-- Raised a simulation server's request rate by 400% by moving from REST to custom TCP and UDP networking
-
 ### Featured projects
 
 <table>
